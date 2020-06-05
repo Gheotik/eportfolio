@@ -1,0 +1,10 @@
+[
+  {
+      "grouping":"Langages, Os",
+      "skills":[ "Java","Python","VBA","git","linux","bash","HTML/CSS","SQL"]
+  },
+  {
+    "grouping":"Langues",
+      "skills":["Français","Anglais"]
+  }
+]
