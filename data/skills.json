@@ -1,7 +1,12 @@
 [
   {
-      "grouping":"Langages, Os",
-      "skills":[ "Java","Python","VBA","git","linux","bash","HTML/CSS","SQL"]
+      "grouping":"Langages, OS",
+      "skills":[ "Python","Java","VBA","git","linux","bash","HTML5","CSS3","postgresql"]
+  },
+
+  {
+      "grouping":"Outils",
+      "skills":["visualstudio","git","intellij","render"]
   },
   {
     "grouping":"Langues",
