@@ -9,7 +9,7 @@ enableGitInfo = false
 
 [params]
 address = "Maubeuge, France"
-email = "pierre.beguin[AT]etu.uphf.Fr"
+email = "pierre.beguin@etu.uphf.Fr"
 favicon = "/favicon.ico"
 firstName = "Pierre"
 lastName = "Béguin"
