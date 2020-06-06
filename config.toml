@@ -1,5 +1,5 @@
 title = "Pierre Béguin"
-baseURL = "https://eportfolio.onrender.com/"
+baseURL = "https://pierrebeguin.fr/"
 theme = "hugo-resume"
 languageCode = "fr-fr"
 PygmentsCodeFences = true
